@@ -7,6 +7,7 @@ The address of the source code is：https://github.com/picobyte/stable-diffusion
 
 
 How to use: 
+
 1.Download the code and place it under the extensions-builtin folder
 
 2.Download the model file and place it under the models/deepdanbooru folder
